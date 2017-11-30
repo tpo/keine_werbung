@@ -10,7 +10,7 @@ anmachen kann, damit man keine...
 
 ... Zeitungen mehr kriegt:
 
-![title](keine_Werbung.png?raw=true)
+![Flyer](keine_Werbung.png)
 
 Formate
 =======
