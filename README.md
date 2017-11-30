@@ -10,7 +10,7 @@ anmachen kann, damit man keine...
 
 ... Zeitungen mehr kriegt:
 
-![title](https://github.com/tpo/keine_werbung/blob/master/keine_Werbung.png)
+![title](keine_Werbung.png?raw=true)
 
 Formate
 =======
