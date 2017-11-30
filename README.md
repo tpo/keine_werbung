@@ -2,13 +2,15 @@ Was
 ===
 
 Ein Flyer/Kleber, den man an den Briefkasten
-anmachen kann, damit man keine:
+anmachen kann, damit man keine...
 
 * Schaffhauser Nachrichten
 * Schaffhauser Bock
 * Schaffhauser Regional Sport
 
-... Zeitungen mehr kriegt.
+... Zeitungen mehr kriegt:
+
+![title](https://github.com/tpo/keine_werbung/blob/master/keine_Werbung.png)
 
 Formate
 =======
